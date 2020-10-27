@@ -15,7 +15,7 @@
     "lodash": "^4.17.11",
     "node-fetch": "^2.3.0",
     "superagent": "^4.1.0",
-    "systeminformation": "^3.54.0",
+    "systeminformation": "^4.27.11",
     "weather-js": "^2.0.0"
   },
   "devDependencies": {},
